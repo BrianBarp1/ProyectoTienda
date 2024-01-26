@@ -1,0 +1,6 @@
+@ServiceBackEnd_HostAddress = http://localhost:5042
+
+GET {{ServiceBackEnd_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
